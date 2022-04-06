@@ -1,0 +1,29 @@
+body {
+  background-color: #ffd9f5;
+}
+
+h1,
+h3 {
+  color: #3f3351;
+}
+
+p,
+table {
+  color: #5c3453;
+}
+
+th {
+  color: #3f3351;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5vw;
+  border-width: 0.5vw;
+  color: #7f7c82;
+}
+
+img {
+  height: 20vw;
+}
